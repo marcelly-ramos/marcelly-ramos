@@ -1,4 +1,4 @@
-## Olá, fique à vontade! Aceita um café? 😁
+## Olá, fique à vontade 😁
 
  <div>
    <a href="https://github.com/marcelly-ramos">
